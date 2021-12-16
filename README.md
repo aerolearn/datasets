@@ -24,7 +24,7 @@
 			     \__\/         \__\/                     \__\/    
 
 
-[![License](https://img.shields.io/github/license/aerolearn/datasets)](./LICENSE.md)
+[![License](https://img.shields.io/github/license/aerolearn/datasets)](./LICENSE)
 ![Code size](https://img.shields.io/github/languages/code-size/aerolearn/datasets)
 [![Latest commit](https://img.shields.io/github/last-commit/aerolearn/datases)](https://github.com/aerolearn/datasets/commits/main)
 
